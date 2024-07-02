@@ -1,0 +1,45 @@
+/* AboutUs.css */
+.main{
+    width: 1440px;
+height: 942px;
+top: 1739px;
+left: 41px;
+gap: 0px;
+opacity: 0px;
+
+}
+.bgimg{
+    background: url('./aboutusbg.jpeg') no-repeat center center;
+    background-size: cover;
+    /* padding: 5rem 0; */
+    /* color: white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* min-height: 648px; */
+    width: 1440px;
+height: 942px;
+gap: 0px;
+opacity: 0px;
+
+}
+.process-step {
+    margin-top: 20px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border: 2px solid orange;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 20px auto;
+    font-weight: bold;
+}
+
+.circle span {
+    display: block;
+    font-size: 1.2rem;
+}

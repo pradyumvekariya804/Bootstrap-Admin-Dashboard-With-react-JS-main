@@ -1,0 +1,17 @@
+.header {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar-brand {
+    color: #f70c !important;
+}
+
+.nav-link {
+    color: #333 !important;
+}
+
+.btn-warning {
+    background-color: #f70c;
+    border: none;
+}
